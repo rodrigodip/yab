@@ -1,0 +1,8 @@
+title: Obsidian Blog
+description: Writing posts in Obsidian, publishing with GitHub Pages
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
